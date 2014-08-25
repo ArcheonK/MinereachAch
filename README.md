@@ -1,4 +1,4 @@
-MinereachAch
+Minereach Achievement System
 ============
 
 Minereach Achievement API
